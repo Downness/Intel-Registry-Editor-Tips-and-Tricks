@@ -1,5 +1,6 @@
 
 * Info: See PDF for images and better view...
+* See updates in the Word or PDF files...
 
 How to speed up your processor using Registry Keys
 -------------------------------------------------------------------------------
